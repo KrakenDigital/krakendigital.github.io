@@ -1,4 +1,4 @@
 krakendigital.github.io
 =======================
 
-Company Portfolio
+Simple Company Portfolio
